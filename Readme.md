@@ -78,7 +78,7 @@ Before you begin, ensure you have the following installed on your machine:
 		"SystemUri": "http://localhost:5195/"
 	  },
 	  "CodeCompletionService": {
-		"Provider": "OpenAI" // Change this to "Mock" to use MockCodeCompletionService
+		"Provider": "OpenAI" 
 	  },
 	  "Logging": {
 		"LogLevel": {
