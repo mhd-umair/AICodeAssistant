@@ -17,7 +17,7 @@ AI Code Assistant is a web application that uses OpenAI's Codex model to provide
 
 Before you begin, ensure you have the following installed on your machine:
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [.NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ## Setup
