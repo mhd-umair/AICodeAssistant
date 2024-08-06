@@ -36,7 +36,7 @@ namespace AICodeAssistant.Services
                 };
 
                 var content = new StringContent(JsonConvert.SerializeObject(requestContent), Encoding.UTF8, "application/json");
-                var response = await _httpClient.PostAsync("engines/davinci/completions", content);
+                var response = await _httpClient.PostAsync("/completions", content);
 
                 response.EnsureSuccessStatusCode();
 
